@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: includes/retain-settings.php:46
+msgid "Add User data to your retain dashboard including username,email, first name and last name"
+msgstr ""
+
+#. Text in function
+#: includes/retain-settings.php:34
+msgid "Find your App ID from Retain dashboard"
+msgstr ""
+
+#. Text in function
+#: includes/retain-settings.php:48
+msgid "Gather data from logged in users"
+msgstr ""
+
+#. Text in function
+#: includes/retain-settings.php:43
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: retain.php:1
+msgid "Retain"
+msgstr ""
+
+#. Text in function
+#: includes/retain-settings.php:48
+msgid "Retain - General Settings"
+msgstr ""
+
+#. Text in function
+#: includes/retain-settings.php:48
+msgid "Rtain App ID"
+msgstr ""
+
+#. Text in function
+#: includes/retain-settings.php:48
+msgid "This settings are neccessary for Plugin to work."
+msgstr ""
+
+#. Text in function
+#: includes/retain-settings.php:44
+msgid "Yes"
+msgstr ""

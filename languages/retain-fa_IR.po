@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.6\n"
+"Last-Translator: Websima <websima2@gmail.com>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: fa_IR\n"
+
+#. Text in function
+#: includes/retain-settings.php:46
+msgid ""
+"Add User data to your retain dashboard including username,email, first name "
+"and last name"
+msgstr ""
+"اطلاعات کاربرانی که وارد سایت شده اند شامل نام کاربر، ایمیل و آی دی را در "
+"پنل مدیریت ریتین مشاهده خواهید کرد."
+
+#. Text in function
+#: includes/retain-settings.php:34
+msgid "Find your App ID from Retain dashboard"
+msgstr "در پنل مدیریت ریتین آی دی خود را پیدا کنید."
+
+#. Text in function
+#: includes/retain-settings.php:48
+msgid "Gather data from logged in users"
+msgstr "اطلاعات کاربران وارد شده به سایت جمع آوری شود"
+
+#. Text in function
+#: includes/retain-settings.php:43
+msgid "No"
+msgstr "خیر"
+
+#. Text in function
+#: retain.php:1
+msgid "Retain"
+msgstr ""
+
+#. Text in function
+#: includes/retain-settings.php:48
+msgid "Retain - General Settings"
+msgstr "تنظیمات عمومی ریتین"
+
+#. Text in function
+#: includes/retain-settings.php:48
+msgid "Rtain App ID"
+msgstr "آی دی کاربری شما در ریتین"
+
+#. Text in function
+#: includes/retain-settings.php:48
+msgid "This settings are neccessary for Plugin to work."
+msgstr "برای استفاده از این افزونه اطلاعات زیر را تکمیل کنید."
+
+#. Text in function
+#: includes/retain-settings.php:44
+msgid "Yes"
+msgstr "بله"
